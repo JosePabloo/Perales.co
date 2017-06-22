@@ -1,3 +1,3 @@
-This all of the files for Perales.CO
+These are all of the files for Perales.CO
 
 Webiste is live on Perales.co 
